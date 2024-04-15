@@ -1,0 +1,9 @@
+com\task\Book\Service\repository\BookRepo.class
+com\task\Book\Service\BookServiceApplication.class
+com\task\Book\Service\mapper\BookMapperImpl.class
+com\task\Book\Service\service\BookService.class
+com\task\Book\Service\service\BookServiceImpl.class
+com\task\Book\Service\model\dto\BookDto.class
+com\task\Book\Service\controller\BookController.class
+com\task\Book\Service\mapper\BookMapper.class
+com\task\Book\Service\model\entity\Book.class
